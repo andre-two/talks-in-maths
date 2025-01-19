@@ -1,2 +1,8 @@
 .DS_Store
-zmaps-app/data/*
+
+zmaps-app/data/SP_Malha_Preliminar_2022.gpkg
+zmaps-app/data/SP_setores_CD2022.gpkg
+zmaps-app/data/SP_setores_CD2022 (1).gpkg
+zmaps-app/data/agregados_por_geometria/domicilios.parquet
+zmaps-app/data/geometria/geometrias.parquet
+zmaps-app/data/agregados_por_geometria/populacao.parquet
